@@ -68,7 +68,7 @@ export const Portfolio = () => {
 
 								
 
-							<article className="portfolio-item node react pf-icons">
+							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
 										<img src="images/portfolio/thumb-3.jpg" alt="Open Imagination" />
@@ -127,7 +127,8 @@ export const Portfolio = () => {
 								</div>
 							</article>
 							
-							<article className="portfolio-item react node pf-icons">
+							
+							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
 										<img src="images/portfolio/thumb-8.jpg" alt="Open Imagination" />
