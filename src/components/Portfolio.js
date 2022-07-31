@@ -72,8 +72,9 @@ export const Portfolio = () => {
 
 									<a href="https://github.com/jdhova/e-comm" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
 
-										<a href="https://e-comm-6609c.web.app/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
-										</a>
+									<a href="https://e-comm-6609c.web.app/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+									</a>
+
 								</div>
 							</article>
 
@@ -94,6 +95,10 @@ export const Portfolio = () => {
 										
 										</a></h3>
 										<span><a href="/#">JavaScript</a></span>
+
+										<a href="https://github.com/jdhova/JS-Algorithms-and-Data-Structures" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+
+
 
 										
 								</div>
@@ -118,6 +123,7 @@ export const Portfolio = () => {
 										
 										</a></h3>
 									<span><a href="/#">JavaScript</a></span>
+									
 								</div>
 							</article>
 	
