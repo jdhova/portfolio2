@@ -46,7 +46,8 @@ export const Portfolio = () => {
 										React JS</a></span>
 										<a href="https://github.com/aayushi1852/bootstrap-assignment" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
 
-										<a href="https://aayushi1852.github.io/bootstrap-assignment/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> </a>
+										<a href="https://aayushi1852.github.io/bootstrap-assignment/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
 
 
 								</div>
@@ -68,6 +69,11 @@ export const Portfolio = () => {
 									<h3><a href="/#">Flexx Recruitment
 										</a></h3>
 									<span><a href="/#">React JS & Firebase </a>, <a href="/#">Node</a></span>
+
+									<a href="https://github.com/jdhova/e-comm" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+
+										<a href="https://e-comm-6609c.web.app/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
 								</div>
 							</article>
 
@@ -79,7 +85,7 @@ export const Portfolio = () => {
 										<img src="images/portfolio/thumb-3.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-3.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-3.jpg" className="left-icon"         data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -88,6 +94,8 @@ export const Portfolio = () => {
 										
 										</a></h3>
 										<span><a href="/#">JavaScript</a></span>
+
+										
 								</div>
 							</article>
 							
@@ -97,7 +105,7 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-5.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-4.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
 										<a href="images/portfolio/thumb-4.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
@@ -105,7 +113,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">JS Maths Game
+									<h3><a href="/#">JS Maths Games
 										
 										
 										</a></h3>
@@ -118,10 +126,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-7.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-4.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-4.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -140,7 +148,7 @@ export const Portfolio = () => {
 										<img src="images/portfolio/thumb-6.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-8.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-6.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
