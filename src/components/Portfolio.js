@@ -82,7 +82,7 @@ export const Portfolio = () => {
 									<h3><a href="/#">Data Structures
 										
 										</a></h3>
-									<span><a href="/#">React</a> , <a href="/#"> Node Js</a></span>
+										<span><a href="/#">JavaScript</a></span>
 								</div>
 							</article>
 
@@ -108,45 +108,6 @@ export const Portfolio = () => {
 							</article>
 	
 
-							<article className="portfolio-item node js pf-icons">
-								<div className="portfolio-image">
-									<a href="/#">
-										<img src="images/portfolio/thumb-5.jpg" alt="Open Imagination" />
-									</a>
-									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-5.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
-										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div className="portfolio-desc">
-									<h3><a href="/#">Project 5
-										
-										
-										
-										</a></h3>
-									<span><a href="/#">JS </a> , <a href="/#" >Node Js</a></span>
-								</div>
-							</article>
-							
-							<article className="portfolio-item js node pf-icons">
-								<div className="portfolio-image">
-									<a href="/#">
-										<img src="images/portfolio/thumb-6.jpg" alt="Open Imagination" />
-									</a>
-									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-6.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
-										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div className="portfolio-desc">
-									<h3><a href="/#">>Project 5
-										
-										
-										
-										</a></h3>
-									<span><a href="/#">JS </a> , <a href="/#" >Node.js</a></span>
-								</div>
-							</article>
 							
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
@@ -181,25 +142,10 @@ export const Portfolio = () => {
 										
 										
 										</a></h3>
-									<span><a href="/#">React Js  </a> , <a href="/#" >Node Js</a></span>
+										<span><a href="/#">JavaScript</a></span>
 								</div>
 							</article>
 							
-							<article className="portfolio-item react pf-icons">
-								<div className="portfolio-image">
-									<a href="/#">
-										<img src="images/portfolio/thumb-9.jpg" alt="Open Imagination" />
-									</a>
-									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-9.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
-										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div className="portfolio-desc">
-									<h3><a href="/#">Project 9</a></h3>
-									<span><a href="/#">React.js  </a> , <a href="/#" >Node Js</a></span>
-								</div>
-							</article>
 						</div>
 
 
