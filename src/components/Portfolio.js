@@ -85,8 +85,9 @@ export const Portfolio = () => {
 										<span><a href="/#">JavaScript</a></span>
 								</div>
 							</article>
+							
 
-	
+						
 
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
