@@ -92,7 +92,7 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-4.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-5.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
 										<a href="images/portfolio/thumb-4.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
@@ -113,7 +113,7 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-7.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-4.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
 										<a href="images/portfolio/thumb-7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
@@ -132,7 +132,7 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-8.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-6.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
 										<a href="images/portfolio/thumb-8.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
